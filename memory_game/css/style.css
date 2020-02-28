@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'Raleway';
+    color:#0D2c40;
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-size: 45px;
+}
+
+a {
+    font-family: 'Raleway';
+    color:#F13B31;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 18px;
+
+}
+
+h2 {
+    font-family: 'Raleway';
+    color:#0D2c40;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 20px;
+
+
+}
+
+p {
+    font-family: "DROID SERIF";
+    line-height: 26px;
+    font-size: 18px;
+}
