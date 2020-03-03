@@ -21,7 +21,3 @@ if (cardsInPlay.length === 2){
   }
 } 
 
-
-else {
- alert("sorry try again");
-}
